@@ -2,8 +2,9 @@
 /**
  * @var \App\View\AppView $this
  * @var \App\Model\Entity\Studentmaster $studentmaster
- */
-?>
+ */ 
+//jgjgjgjg
+?> 
 <div class="row">
     <aside class="column">
         <div class="side-nav">
